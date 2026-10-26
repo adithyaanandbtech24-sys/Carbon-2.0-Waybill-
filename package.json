@@ -1,7 +1,7 @@
 {
   "name": "carbon",
   "devDependencies": {
-    "@biomejs/biome": "2.5.15",
+    "@biomejs/biome": "2.6.2",
     "@lingui/cli": "catalog:",
     "@react-router/dev": "catalog:",
     "@types/aws-lambda": "8.10.164",
@@ -18,7 +18,7 @@
     "supabase": "catalog:",
     "ts-morph": "28.0.0",
     "tsx": "catalog:",
-    "turbo": "2.11.7",
+    "turbo": "2.11.10",
     "typescript": "catalog:",
     "vite": "catalog:",
     "zod": "catalog:"
